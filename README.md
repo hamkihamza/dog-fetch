@@ -6,13 +6,21 @@ The Fetch Dog Adoption Search is a simple web application that allows users to s
 
 ## Installation
 1. Clone this repository to your local machine.
-### gh repo clone hamkihamza/dog-fetch
+   ```sh
+   gh repo clone hamkihamza/dog-fetch
+   ```
 2. Navigate to the project directory.
-### cd dog-search-project
+   ```sh
+   cd dog-search-project
+   ```
 3. Install the required dependencies.
-### npm install
+   ```sh
+   npm install
+   ```
 4. Start the local development server.
-### npm start
+   ```sh
+   npm start
+   ```
 
 The application should now be running on localhost:3000.
 
