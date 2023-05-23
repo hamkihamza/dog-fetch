@@ -15,7 +15,6 @@ function App() {
         <Routes>
           <Route path="/" element={<Login />} />
           <Route path="/search" element={<Search />} />
-          {/* Other routes as needed */}
         </Routes>
       </Router>
     </AuthContext.Provider>
